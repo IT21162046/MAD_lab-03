@@ -28,6 +28,7 @@
                 android:layout_height="60dp"
                 android:layout_marginTop="32dp"
                 android:text="@string/rr"
+                android:textAlignment="center"
                 android:textSize="34sp"
                 app:layout_constraintBottom_toBottomOf="parent"
                 app:layout_constraintEnd_toEndOf="parent"
