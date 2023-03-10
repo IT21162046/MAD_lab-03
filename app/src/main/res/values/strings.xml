@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Lab3</string>
+    <string name="Register" />
+    <string name="rr">Register</string>
+    <string name="Username" />
+    <string name="un">Username</string>
+    <string name="us">Username</string>
+    <string name="em">Email</string>
+    <string name="pn">Phone Number</string>
+    <string name="Email" />
+    <string name="e">Email</string>
+    <string name="p">Phone Number</string>
+    <string name="pw">Password</string>
+    <string name="pww">Password</string>
+    <string name="bt1">SUBMIT</string>
+    <string name="bt2">CANCEL</string>
+</resources>
