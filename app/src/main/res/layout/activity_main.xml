@@ -28,6 +28,7 @@
                 android:layout_height="60dp"
                 android:layout_marginTop="32dp"
                 android:text="@string/rr"
+                android:textAlignment="center"
                 android:textSize="34sp"
                 app:layout_constraintBottom_toBottomOf="parent"
                 app:layout_constraintEnd_toEndOf="parent"
@@ -114,7 +115,7 @@
             <Button
                 android:id="@+id/btnSubmit"
                 android:layout_width="360dp"
-                android:layout_height="60dp"
+                android:layout_height="65dp"
                 android:layout_marginStart="32dp"
                 android:layout_marginTop="20dp"
                 android:layout_marginEnd="32dp"
@@ -128,7 +129,7 @@
             <Button
                 android:id="@+id/btnCancel"
                 android:layout_width="360dp"
-                android:layout_height="60dp"
+                android:layout_height="65dp"
                 android:layout_marginStart="32dp"
                 android:layout_marginTop="16dp"
                 android:layout_marginEnd="32dp"
